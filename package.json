@@ -1,0 +1,25 @@
+{
+  "name": "big-json-reader",
+  "version": "1.0.0",
+  "description": "Read a large JSON array from file",
+  "main": "reader.js",
+  "keywords": [
+    "read-json",
+    "json-reader",
+    "file-reader"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsrts/big-json-reader.git"
+  },
+  "author": "Rajdeep Deb",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/itsrts/big-json-reader/issues"
+  },
+  "homepage": "https://github.com/itsrts/big-json-reader#readme",
+  "dependencies": {}
+}
