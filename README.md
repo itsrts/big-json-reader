@@ -34,7 +34,7 @@ It counts a json a process successfully if the promise was resolved. Even if the
 ## Usage
 
 ```js
-let JsonReader  = require('./reader');
+let JsonReader  = require('big-json-reader');
 /* provide a full path to the file to be read */
 let reader = new JsonReader(require.resolve('./data.json'));
 
